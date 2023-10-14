@@ -1,0 +1,21 @@
+python --version : checking version(exam : python v3.11)
+1. make virtual environment
+py -3.11 -m venv ttkbootstrap_env
+
+2. activate vitual environment
+.\ttkbootstrap_env\Scripts\activate
+
+3. if activate fail
+run PowerShell
+	Set-ExecutionPolicy RemoteSigned
+	y
+
+
+4. py -3.11 -m pip install ttkbootstrap
+
+5. VSC setup for VENV
+	ctrl + shift + P
+	find "python select interpreter"
+	select my virtual environment
+
+6. py -3.11 main.py
