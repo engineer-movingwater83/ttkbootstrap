@@ -1,1 +1,1 @@
-py -3.11 ctk_tree_with_excel.py
+py -3.11 ttk_tables.py

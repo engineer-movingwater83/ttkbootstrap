@@ -12,8 +12,10 @@ run PowerShell
 
 
 4. install librarys
-py -3.11 -m pip install ttkbootstrap
-py -3.11 -m pip install customtkinter
+#py -3.11 -m pip install ttkbootstrap
+#py -3.11 -m pip install customtkinter
+pip install ttkbootstrap
+pip install customtkinter
 
 5. VSC setup for VENV
 	ctrl + shift + P
